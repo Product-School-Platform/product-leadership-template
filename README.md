@@ -8,14 +8,14 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 ## Deliverables at a glance
 
-| # | Deliverable | Module | Status | File |
-|---|---|---|---|---|
-| 1 | **Product Strategy & OKRs** | M1 | ☐ | `01-strategy/strategy-and-okrs.md` |
-| 2 | **Outcome Roadmap & Trade-off Memo** | M2 | ☐ | `02-roadmap/outcome-roadmap.md` |
-| 3 | **Team Charter** (What We Own + How We Decide) | M3 | ☐ | `03-team-charter/team-charter.md` |
-| 4 | **Stakeholder Message** (a hard no to your Module 3 stakeholder) | M4 | ☐ | `04-stakeholder-message/stakeholder-message.md` |
-| 5 | **Business Case** (bet, assumptions, return + kill criterion) | M5 | ☐ | `05-business-case/business-case.md` |
-| 6 | **Final Presentation** (your five deliverables + a reflection on the course) | M6 | ☐ | `final-presentation.html`, downloaded from the Final Project Deliverables Builder |
+| # | Deliverable | Module | File |
+|---|---|---|---|
+| 1 | **Product Strategy & OKRs** | M1 | `01-strategy/strategy-and-okrs.md` |
+| 2 | **Outcome Roadmap & Trade-off Memo** | M2 | `02-roadmap/outcome-roadmap.md` |
+| 3 | **Team Charter** (What We Own + How We Decide) | M3 | `03-team-charter/team-charter.md` |
+| 4 | **Stakeholder Message** (a hard no to your Module 3 stakeholder) | M4 | `04-stakeholder-message/stakeholder-message.md` |
+| 5 | **Business Case** (bet, assumptions, return + kill criterion) | M5 | `05-business-case/business-case.md` |
+| 6 | **Final Presentation** (your five deliverables + a reflection on the course) | M6 | `final-presentation.html`, downloaded from the Final Project Deliverables Builder |
 
 ## The strategy in one sentence
 
