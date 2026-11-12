@@ -32,7 +32,7 @@ ___
 
 ```
 product-leadership-final/
-├── README.md                              ← this dashboard
+├── README.md                              ← the list of your deliverables
 ├── 01-strategy/
 │   └── strategy-and-okrs.md               ← M1: Playing to Win + hard no + OKRs + AI pressure-test   ★ Deliverable 1
 ├── 02-roadmap/
