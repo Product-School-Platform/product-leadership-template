@@ -8,16 +8,14 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 ## Deliverables at a glance
 
-| # | Deliverable | Module | Status | File |
-|---|---|---|---|---|
-| 1 | **Product Strategy One-Pager & OKRs** | M1 | ☐ | `01-strategy/strategy-and-okrs.md` |
-| 2 | **Outcome Roadmap & Trade-off Memo** | M2 | ☐ | `02-roadmap/outcome-roadmap.md` |
-| 3 | **Team Charter** (What We Own + How We Decide) | M3 | ☐ | `03-team-charter/team-charter.md` |
-| 4 | **Financial Model** (business case + kill criteria) | M5 | ☐ | `04-financial-model/financial-model.md` |
-| 5 | **Individual Insights** (reflection) | M6 | ☐ | `05-insights/individual-insights.md` |
-| ★ | **Final Project Presentation** (generated in M6, committed to your repo) | M6 | ☐ | `05-insights/final-presentation.md` |
-
-> Module 4 (*Drive Alignment & Executive Influence*) sharpens **how** you land these deliverables with executives rather than producing a separate submitted artifact.
+| # | Deliverable | Module | File |
+|---|---|---|---|
+| 1 | **Product Strategy & OKRs** | M1 | `01-strategy/strategy-and-okrs.md` |
+| 2 | **Outcome Roadmap & Trade-off Memo** | M2 | `02-roadmap/outcome-roadmap.md` |
+| 3 | **Team Charter** (What We Own + How We Decide) | M3 | `03-team-charter/team-charter.md` |
+| 4 | **Stakeholder Message** (a hard no to your Module 3 stakeholder) | M4 | `04-stakeholder-message/stakeholder-message.md` |
+| 5 | **Business Case** (bet, assumptions, return + kill criterion) | M5 | `05-business-case/business-case.md` |
+| 6 | **Final Presentation** (your five deliverables + a reflection on the course) | M6 | `final-presentation.html`, downloaded from the Final Project Deliverables Builder |
 
 ## The strategy in one sentence
 
@@ -27,23 +25,23 @@ ___
 
 ## How to submit
 
-- In Module 6, generate your final deck (Google Slides or PDF) from the deliverable files and commit it to your repo. The quickest path: use the **Final Project Deliverables Template**, or paste your files into an AI tool like **Gamma** or **Canva** (see `05-insights/final-presentation.md`).
-- Submit **both** your **repo URL** and your **presentation** (a published link, or the file uploaded to the learning platform) within **7 days** of your cohort ending.
+- In Module 6, generate your presentation in the **[Final Project Deliverables Builder](https://product-school-platform.github.io/ps-content-library/certifications/plc/2026.1/Modules/Final%20Project%20Deliverables%20Builder.html)**. It pulls your deliverables from this repo, or from your uploaded files if the repo is private. Then you add your reflection and download `final-presentation.html`. Commit it to the root of this repo, so the repo holds your full final project.
+- Submit **both** your **repo URL** and your **presentation** on the Learning Platform within **7 days** of your cohort ending. Upload the HTML file, or share its link if you've turned on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
 ## Repo structure
 
 ```
 product-leadership-final/
-├── README.md                              ← this dashboard
+├── README.md                              ← the list of your deliverables
 ├── 01-strategy/
-│   └── strategy-and-okrs.md               ← M1: Playing to Win + hard no + OKRs   ★ Deliverable 1
+│   └── strategy-and-okrs.md               ← M1: Playing to Win + hard no + OKRs + AI pressure-test   ★ Deliverable 1
 ├── 02-roadmap/
 │   └── outcome-roadmap.md                 ← M2: outcome roadmap + trade-off memo   ★ Deliverable 2
 ├── 03-team-charter/
 │   └── team-charter.md                    ← M3: What We Own + How We Decide         ★ Deliverable 3
-├── 04-financial-model/
-│   └── financial-model.md                 ← M5: business case + kill criteria       ★ Deliverable 4
-└── 05-insights/
-    ├── individual-insights.md             ← M6: friction, learnings, aha           ★ Deliverable 5
-    └── final-presentation.md              ← M6: how to build the deck (committed to repo)  ★ Final submission
+├── 04-stakeholder-message/
+│   └── stakeholder-message.md             ← M4: a hard no to your Module 3 stakeholder  ★ Deliverable 4
+├── 05-business-case/
+│   └── business-case.md                   ← M5: bet, assumptions, return + kill criterion  ★ Deliverable 5
+└── final-presentation.html                ← M6: your final presentation, from the builder  ★ Deliverable 6
 ```
